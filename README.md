@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavish-codes&label=Profile views&color=0e75b6&style=flat" alt="bhavish-codes" /> </p>
 
+- 🔭 I'm currently working on **vani and kitsune cli**
+
+- 🌱 I'm currently learning **system designs , Ai ML , dva **
+
 - 📫 How to reach me **bhavishdhar@gmail.com**
 
 - 📄 Know about my experiences **[https://drive.google.com/drive/folders/1Gk3Z83mzC0NokA7JfbiPSdCO-uaYhqBU?usp=sharing](https://drive.google.com/drive/folders/1Gk3Z83mzC0NokA7JfbiPSdCO-uaYhqBU?usp=sharing)**
