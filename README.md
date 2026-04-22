@@ -1,26 +1,123 @@
-# Hi 👋, I'm bhavish dhar
+<div align="center">
 
-### An beginner Javascript developer
+```
+██████╗ ██╗  ██╗ █████╗ ██╗   ██╗██╗███████╗██╗  ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║██╔════╝██║  ██║
+██████╔╝███████║███████║██║   ██║██║███████╗███████║
+██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝██║╚════██║██╔══██║
+██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║███████║██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavish-codes&label=Profile views&color=0e75b6&style=flat" alt="bhavish-codes" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Bhavish+Dhar+%F0%9F%91%8B;JavaScript+Developer+%7C+Builder+%7C+Tinkerer;Crafting+CLIs%2C+Systems+%26+AI+things;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I'm currently working on **vani and kitsune cli**
+<img src="https://komarev.com/ghpvc/?username=bhavish-codes&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/bhavish-codes?style=for-the-badge&color=00d9ff&labelColor=0d1117" />
 
-- 🌱 I'm currently learning **system designs , Ai ML , dva **
+</div>
 
-- 📫 How to reach me **bhavishdhar@gmail.com**
+---
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1Gk3Z83mzC0NokA7JfbiPSdCO-uaYhqBU?usp=sharing](https://drive.google.com/drive/folders/1Gk3Z83mzC0NokA7JfbiPSdCO-uaYhqBU?usp=sharing)**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/bhavish-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bhavish-codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavish dhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavish dhar" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavish_dhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavish_dhar_" height="30" width="40" /></a>
-</p>
+```js
+const bhavish = {
+  name: "Bhavish Dhar",
+  role: "JavaScript Developer (Beginner → Builder)",
+  location: "🌏 India",
+  currentProjects: ["vani", "kitsune-cli"],
+  learning: ["System Design", "AI/ML", "DVA"],
+  contact: "bhavishdhar@gmail.com",
+  funFact: "I write code at 2am and pretend it was planned",
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavish-codes&" alt="bhavish-codes" /></p>
+## 🚀 What I'm Up To
 
+| 🔭 Building | 🌱 Learning | 🎯 Goal |
+|---|---|---|
+| `vani` & `kitsune-cli` | System Design, AI/ML, DVA | Ship real-world projects |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhavish-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavish-codes&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavish-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhavish-codes&theme=darkhub&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavish-codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavish-dhar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhavish_dhar_)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavishdhar@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/drive/folders/1Gk3Z83mzC0NokA7JfbiPSdCO-uaYhqBU?usp=sharing)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+![Snake animation](https://github.com/bhavish-codes/bhavish-codes/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
