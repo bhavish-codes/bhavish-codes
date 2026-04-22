@@ -90,15 +90,6 @@ const bhavish = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhavish-codes&theme=darkhub&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🔗 Connect With Me
 
@@ -118,6 +109,6 @@ const bhavish = {
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Snake animation](https://github.com/bhavish-codes/bhavish-codes/blob/output/github-contribution-grid-snake-dark.svg)
+[![Bhavish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavish-codes&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
