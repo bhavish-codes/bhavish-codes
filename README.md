@@ -26,7 +26,7 @@ const bhavish = {
   name: "Bhavish Dhar",
   role: "JavaScript Developer (Beginner → Builder)",
   location: "🌏 India",
-  currentProjects: ["vani", "kitsune-cli"],
+  currentProjects: ["vani", "kitsune-cli", "GitAnalyser"],
   learning: ["System Design", "AI/ML", "DVA"],
   contact: "bhavishdhar@gmail.com",
   funFact: "I write code at 2am and pretend it was planned",
